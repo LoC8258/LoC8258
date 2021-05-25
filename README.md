@@ -1,6 +1,6 @@
-### locc
+### LineOfCodeboi
 
-hey, I'm LoC. I'm a self-taught developer, interested in everything. From a simple (and crappy) Discord bot to a legitimate cheat for Fortnite, I've done it all.
+hey, I'm LoC (short for **line of code**, but tell no-one that). I'm a self-taught developer, interested in everything. From a simple (and crappy) Discord bot to a legitimate cheat for Fortnite, I've done it all.
 
 Here's some other things GitHub recommended to me
 - 🔭 I’m currently working on game exploitation
