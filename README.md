@@ -1,4 +1,11 @@
-### Hi there 👋
+### locc
+
+hey, I'm LoC. I'm a self-taught developer, interested in everything. From a simple (and crappy) Discord bot to a legitimate cheat for Fortnite, I've done it all.
+
+Here's some other things GitHub recommended to me
+- 🔭 I’m currently working on game exploitation
+- 🌱 I’m currently learning C++ and C#
+- 📫 How to reach me: LoC#8258
 
 <!--
 **LineOfCodeboi/LineOfCodeboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
