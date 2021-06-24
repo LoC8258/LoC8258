@@ -1,23 +1,3 @@
-### LineOfCodeboi
-
-hey, I'm LoC (short for **line of code**, but tell no one that). I'm a self-taught developer, interested in everything. From a simple (and crappy) Discord bot to a legitimate cheat for Fortnite, I've done it all.
-
-Here's some other things GitHub recommended to me
-- 🔭 I’m currently working on game exploitation
-- 🌱 I’m currently learning C++ and C#
-- 📫 How to reach me: LoC#8258
-
-<!--
-**LineOfCodeboi/LineOfCodeboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LoC's github stats](https://github-readme-stats.vercel.app/api?username=LineOfCodeboi&theme=dark)](https://github.com/LineOfCodeboi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LineOfCodeboi&theme=dark)](https://github.com/LineOfCodeboi)
+<p> <img src="https://komarev.com/ghpvc/?username=LineOfCodeboi&color=8E64D0" alt="LineOfCodeBoi" />
